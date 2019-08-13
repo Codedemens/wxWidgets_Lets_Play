@@ -63,7 +63,7 @@ set_target_properties(wxwidgetsletsplay
 )   
 
 if(UNIX)
-    target_link_libraries(wxwidgetsletsplay pthread wx_gtk2u_xrc-3.1 wx_gtk2u_html-3.1 wx_gtk2u_qa-3.1 wx_gtk2u_core-3.1 wx_baseu_xml-3.1 wx_baseu_net-3.1 wx_baseu-3.1)
+    target_link_libraries(wxwidgetsletsplay pthread wx_gtk2u_xrc-3.1 wx_gtk2u_html-3.1 wx_gtk2u_qa-3.1 wx_gtk2u_core-3.1 wx_baseu_xml-3.1 wx_baseu_net-3.1 wx_baseu-3.1 wx_gtk2u_aui-3.1)
 elseif(WIN32)
     target_link_libraries(wxwidgetsletsplay wxbase31u wxexpat wxmsw31u_adv wxmsw31u_aui wxmsw31u_core wxmsw31u_gl wxmsw31u_html wxmsw31u_media wxmsw31u_propgrid wxmsw31u_qa wxmsw31u_ribbon wxmsw31u_richtext wxmsw31u_stc wxmsw31u_webview wxmsw31u_xrc wxjpeg wxpng wxregexu wxscintilla wxtiff wxzlib)
 endif()

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dawid90dd/Projekty/wxWidgets_Lets_Play",
+  "command": "/usr/bin/c++   -I/home/dawid90dd/Projekty/wxWidgets_Lets_Play/src -I/home/dawid90dd/Projekty/wxWidgets_Lets_Play/include -I/home/dawid90dd/Projekty/wxWidgets_Lets_Play/ext/linux/include/wx-3.1 -I/home/dawid90dd/Projekty/wxWidgets_Lets_Play/ext/linux/lib/wx/include/gtk2-unicode-3.1    -std=c++14 -O2 -g -D_FILE_OFFSET_BITS=64 -DWXUSINGDLL -D__WXGTK__ -pthread -o CMakeFiles/wxwidgetsletsplay.dir/src/main.cpp.o -c /home/dawid90dd/Projekty/wxWidgets_Lets_Play/src/main.cpp",
+  "file": "/home/dawid90dd/Projekty/wxWidgets_Lets_Play/src/main.cpp"
+},
+{
+  "directory": "/home/dawid90dd/Projekty/wxWidgets_Lets_Play",
+  "command": "/usr/bin/c++   -I/home/dawid90dd/Projekty/wxWidgets_Lets_Play/src -I/home/dawid90dd/Projekty/wxWidgets_Lets_Play/include -I/home/dawid90dd/Projekty/wxWidgets_Lets_Play/ext/linux/include/wx-3.1 -I/home/dawid90dd/Projekty/wxWidgets_Lets_Play/ext/linux/lib/wx/include/gtk2-unicode-3.1    -std=c++14 -O2 -g -D_FILE_OFFSET_BITS=64 -DWXUSINGDLL -D__WXGTK__ -pthread -o CMakeFiles/wxwidgetsletsplay.dir/src/Test1.cpp.o -c /home/dawid90dd/Projekty/wxWidgets_Lets_Play/src/Test1.cpp",
+  "file": "/home/dawid90dd/Projekty/wxWidgets_Lets_Play/src/Test1.cpp"
+}
+]
